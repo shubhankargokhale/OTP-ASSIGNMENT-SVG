@@ -4,10 +4,11 @@ contains version 1 to 3
 
 This program sends random generated OTP to user via SMS and email from registerd account. <br>
 <h3>Services used: </h3>
-
-<h3>Libraries used: </h3>
 1- Twilio 
 2- SMTP
+
+<h3>Libraries used: </h3>
+
 <ul>
   <li>random - for generating otp</li>
   <li>re - regular expression</li>
