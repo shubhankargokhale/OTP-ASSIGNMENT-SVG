@@ -5,7 +5,7 @@ contains version 1 to 3
 This program sends random generated OTP to user via SMS and email from registerd account. <br>
 <h3>Services used: </h3>
 <ol>
-<li> Twilio </li>
+<li> TWILIO </li>
 <li> SMTP</li>
 </ol>
 <br>
